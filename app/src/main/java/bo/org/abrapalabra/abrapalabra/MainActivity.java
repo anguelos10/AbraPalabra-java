@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    String saludo = "Hola este es un saludo";
+    String saludo = "Hola este es un saludo de amistad";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

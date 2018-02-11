@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_ini"
+        android:icon="@drawable/icon_90_inicio"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/nav_asist"
+        android:icon="@drawable/icon_90_asistencia"
+        android:title="Asistencia"/>
+
+    <item
+        android:id="@+id/nav_comp"
+        android:icon="@drawable/icon_90_star"
+        android:title="Comportamiento"/>
+
+    <item
+        android:id="@+id/nav_alim"
+        android:icon="@drawable/icon_90_alimentacion"
+        android:title="Alimentación"/>
+
+    <item
+        android:id="@+id/nav_higi"
+        android:icon="@drawable/icon_90_healt"
+        android:title="Higiene"/>
+
+    <item
+        android:id="@+id/nav_salud"
+        android:icon="@drawable/icon_90_termometro"
+        android:title="Salud"/>
+
+    <item
+        android:id="@+id/nav_acad"
+        android:icon="@drawable/icon_90_academico"
+        android:title="Académico"/>
+
+    <item
+        android:id="@+id/nav_cuentas"
+        android:icon="@drawable/icon_90_cuentas"
+        android:title="Cuentas"/>
+
+    <item
+        android:id="@+id/nav_agenda"
+        android:icon="@drawable/icon_90_agenda"
+        android:title="Agenda"/>
+
+    <item
+        android:id="@+id/nav_avisos"
+        android:icon="@drawable/icon_90_avisos"
+        android:title="Avisos"/>
+    <item
+        android:id="@+id/nav_default"
+        android:icon="@drawable/icon_90_default"
+        android:title="Otros"/>
+
+</menu>

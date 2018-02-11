@@ -3,4 +3,34 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="ColorBlanco">#ffffff</color>
+    <color name="ColorGris">#797979</color>
+
+
+    <color name="inkVerde">#3fbb65</color>
+    <color name="inkNarajnja">#f1aa12</color>
+    <color name="inklila">#ed185b</color>
+    <color name="inkCeleste">#05b9ec</color>
+
+    <!--Colores fragments-->
+    <color name="tintInicio">#373268</color>
+    <color name="tintAsistencia">#373268</color>
+    <color name="tintComportamiento">#e6b800</color>
+    <color name="tintAlimentacion">#88c45f</color>
+    <color name="tintHealt">#44c4dd</color>
+    <color name="tintAcademico">#f34e4a</color>
+    <color name="tintCuentas">#3fbb65</color>
+    <color name="tintAgenda">#692c8b</color>
+    <color name="tintAvisos">#007ba3</color>
+
+    <!--Colores para actividades-->
+    <color name="fondo1">#aF4081</color>
+    <color name="fondo2">#e6b800</color>
+    <color name="fondo3">#88c45f</color>
+    <color name="fondo4">#44c4dd</color>
+    <color name="fondo5">#f34e4a</color>
+    <color name="fondo6">#3fbb65</color>
+    <color name="fondo7">#692c8b</color>
+    <color name="fondo8">#007ba3</color>
 </resources>
